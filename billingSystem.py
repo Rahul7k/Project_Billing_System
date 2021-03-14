@@ -4,7 +4,7 @@ from tkinter import messagebox
 class billingApp:
     def __init__(self,root):
         self.root=root
-        self.root.geometry("1350x720+0+0")
+        self.root.geometry("1350x720+90+30")
         self.root.title("Billing Software")
         title=Label(self.root,text="Billing Software",bd=5,relief=RIDGE,bg="navy",fg="mistyrose",font=("arial",30,"bold"),pady=2).pack(fill=X)
 

@@ -1,0 +1,21 @@
+	Welcome to Billing System
+
+Bill Number : 3934
+Customer Name : Gopal
+Phone Number : 954552112
+======================================
+ Products		QTY		Price
+======================================
+ Mushroom Tikka		2		160
+ Afghani Chicken		2		300
+ Aloo Mattar		2		440
+ Handi Chicken		2		560
+ Rasmalai		4		240
+ Cold Drink		4		140
+-------------------------------------
+ Starters Tax			Rs 23.0
+ Main Course Tax			Rs 80.0
+ Dessert Tax			Rs 19.0
+-------------------------------------
+ Total Bill			 Rs 1962.0
+-------------------------------------
