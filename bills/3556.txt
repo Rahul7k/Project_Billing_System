@@ -1,0 +1,21 @@
+	Welcome to Billing System
+
+Bill Number : 3556
+Customer Name : Prashant
+Phone Number : 9542222
+======================================
+ Products		QTY		Price
+======================================
+ Malai Chaap		1		160
+ Afghani Chicken		1		150
+ Aloo Mattar		1		220
+ Butter Chicken		1		220
+ Rasmalai		2		120
+ Cold Drink		2		70
+-------------------------------------
+ Starters Tax			Rs 15.5
+ Main Course Tax			Rs 35.2
+ Dessert Tax			Rs 9.5
+-------------------------------------
+ Total Bill			 Rs 1000.2
+-------------------------------------

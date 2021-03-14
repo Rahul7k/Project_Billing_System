@@ -1,0 +1,23 @@
+	Welcome to Billing System
+
+Bill Number : 3239
+Customer Name : Rahul
+Phone Number : 982654551
+======================================
+ Products		QTY		Price
+======================================
+ Mushroom Tikka		1		80
+ Paneer Tikka		1		120
+ Chicken Lollipop		2		180
+ Shahi Paneer		1		180
+ Butter Chicken		1		220
+ Rabri		2		100
+ Ice Cream		2		80
+ Cold Drink		4		140
+-------------------------------------
+ Starters Tax			Rs 19.0
+ Main Course Tax			Rs 32.0
+ Dessert Tax			Rs 16.0
+-------------------------------------
+ Total Bill			 Rs 1167.0
+-------------------------------------
